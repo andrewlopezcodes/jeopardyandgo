@@ -1,0 +1,25 @@
+body{
+  background-color: blue;
+}
+#mainRow{
+  background-color: white;
+  height: 600px;
+}
+#sidebar{
+  background-color: silver;
+  float:left;
+  height: 95%;
+  width: 20%;
+
+}
+#sidebarRight{
+  background-color: silver;
+  float:right;
+  height: 95%;
+  width: 20%;
+}
+#googleBox{
+  border-width: 250px;
+  border-height: 300px;
+  border-color: silver;
+}
